@@ -1,21 +1,21 @@
 # PetReminder para Android
 
-Beta **1.0.0-beta.1+2** publicada el 20/10/2026.
+Beta **1.0.0-beta.2+3** publicada el 26/10/2026.
 
-[Descargar APK](https://github.com/Eieen56/app_pet/releases/download/v1.0.0-beta.1/PetReminder-1.0.0-beta.1.apk) · [Release y SHA256SUMS.txt](https://github.com/Eieen56/app_pet/releases/tag/v1.0.0-beta.1) · [Código fuente](https://github.com/Eieen56/pet)
+[Descargar APK](https://github.com/Eileeno56/app_pet/releases/download/v1.0.0-beta.2/PetReminder-1.0.0-beta.2.apk) · [Release y SHA256SUMS.txt](https://github.com/Eileeno56/app_pet/releases/tag/v1.0.0-beta.2) · [Código fuente](https://github.com/Eileeno56/pet)
 
 Android 7.0 (API 24) o superior. APK universal para ARM de 32/64 bits y x86_64.
 
 SHA-256 del APK:
 ```
-bbd691d9c7e8ddf7437a4382e6d413ee362e7cba0720c0b02cececdb30890828
+756768e556b610011cb71883111b4edd5d29c8dd4ff616ce75b76a0f7461d3da
 ```
 
-Compara el hash antes de instalar. Esta beta utiliza firma de depuración y no puede actualizar instalaciones con otra firma. Conserva tus fotografías locales antes de desinstalar una versión anterior. Sigue las indicaciones de Android sin desactivar sus protecciones.
+Compara el hash antes de instalar. Esta beta conserva la firma de beta.1; la actualización sobre ese APK se verificó sin desinstalar. Utiliza firma de depuración y no puede actualizar instalaciones con otra firma. Conserva tus fotografías locales antes de desinstalar una versión anterior. Sigue las indicaciones de Android sin desactivar sus protecciones.
 
-Incluye perfil corregido, un único acceso para crear mascotas, limpieza de comidas al borrar horarios o mascotas, administrador integrado y catálogos con edad en años y meses.
+Incluye acceso con tiempos de espera, validaciones mejoradas, información centrada y fondo de corazones y patitas, horarios por días, comidas manuales, historial con filtros y porcentajes, plan de alimento, ficha médica y cuidado familiar mediante invitaciones dentro de la app. Las reglas nuevas de Firebase ya están desplegadas.
 
-[Pruebas beta y limitaciones](https://github.com/Eieen56/pet/blob/main/docs/PRUEBAS_BETA.md). Los tres reportes de testers están pendientes. No compartir contraseñas ni datos personales en los reportes.
+[Novedades, pruebas y limitaciones de beta.2](https://github.com/Eileeno56/pet/blob/main/docs/MEJORAS_BETA2.md) · [Evidencias de entrega](https://github.com/Eileeno56/pet/blob/main/docs/ENTREGAS.md). Iker y Juan José entregaron sus observaciones sobre beta.1; esta actualización necesita una nueva evaluación humana. No compartir contraseñas ni datos personales en los reportes.
 
 ## Opiniones de testers y docente
 
