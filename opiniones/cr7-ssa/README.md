@@ -40,10 +40,8 @@ Estado: Completado
 - Opinión sobre facilidad de uso y diseño:
   * La interfaz es visualmente atractiva, amigable y muy limpia gracias a la paleta de colores y el patrón de fondo con patas/corazones.
   * La navegación entre pestañas (Inicio, Historial, Perfil) es intuitiva y la configuración de notificaciones guía bien al usuario hacia los ajustes de Android.
-  * Como detalle estético/UX, los iconos de la barra inferior de navegación quedan muy pegados al borde inferior de la pantalla en dispositivos con esquinas redondeadas.
 - Sugerencias de mejora:
   * Flexibilizar el requisito de contraseña en el registro manual (reducir el mínimo de 15 caracteres o permitir combinaciones alfanuméricas estándar de 8-10 caracteres) para no frustrar al usuario.
   * Revisar la lógica del selector de fechas en el Historial para asegurar que la consulta a la base de datos local/remota responda al rango seleccionado.
   * Agregar un mensaje modal de confirmación antes de cerrar la sesión para evitar salidas accidentales.
 - Resultado general: Satisfactorio
-- Evidencias: WhatsApp Video 2026-10-26 at 22.34.49.mp4
