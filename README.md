@@ -17,7 +17,7 @@ La distribución actual se centraliza en **Eileeno56/pet**, junto con el código
 
 La beta.3 exige confirmar el correo con el enlace de Firebase antes de acceder. Conserva Spark; no necesita Blaze ni contraseña de Gmail. Incluye acceso con tiempos de espera, validaciones mejoradas, información centrada y fondo de corazones y patitas, horarios por días, comidas manuales, historial con filtros y porcentajes, plan de alimento, ficha médica y cuidado familiar mediante invitaciones dentro de la app. Las reglas nuevas de Firebase ya están desplegadas.
 
-[Confirmación del correo y guía beta.3](https://github.com/Eileeno56/pet/blob/main/docs/CONFIRMACION_CORREO.md) · [Evidencias de entrega](https://github.com/Eileeno56/pet/blob/main/docs/ENTREGAS.md). Iker y Juan José entregaron sus observaciones sobre beta.1; esta actualización necesita una nueva evaluación humana. No compartir contraseñas ni datos personales en los reportes.
+[Confirmación del correo y guía beta.3](https://github.com/Eileeno56/pet/blob/main/docs/CONFIRMACION_CORREO.md) · [Evidencias de entrega](https://github.com/Eileeno56/pet/blob/main/docs/ENTREGAS.md). Iker y Juan José entregaron sus observaciones sobre beta.1; Abraham entregó un reporte sobre beta.2. La beta.3 necesita una nueva evaluación humana y quedan observaciones nuevas de Abraham por revisar. No compartir contraseñas ni datos personales en los reportes.
 
 ## Opiniones de testers y docente
 
